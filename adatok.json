@@ -1,0 +1,34 @@
+{
+  "adatLista": [
+    {
+      "id": 1,
+      "kor": 5,
+      "fajta": "Olasz agár",
+      "nem": "kan"
+    },
+    {
+      "id": 3,
+      "kor": 8,
+      "fajta": "Angol cocker spániel",
+      "nem": "kan"
+    },
+    {
+      "id": 4,
+      "kor": 1,
+      "fajta": "Csivava",
+      "nem": "szuka"
+    },
+    {
+      "id": 5,
+      "kor": 4,
+      "fajta": "Golden retriever",
+      "nem": "kan"
+    },
+    {
+      "kor": 5,
+      "fajta": "Tacsi",
+      "nem": "kan",
+      "id": 6
+    }
+  ]
+}
